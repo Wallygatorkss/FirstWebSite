@@ -151,7 +151,3 @@ Ce projet m'a permis de mettre en pratique plusieurs compétences de développem
 - Découvrir la conteneurisation d'une application web avec Docker Compose et plusieurs services dépendants.
 
 Le principal défi a été de faire communiquer correctement les différentes couches de l'application : interface PHP, session utilisateur, logique du quiz et base de données. La prochaine étape naturelle serait de centraliser la configuration via des variables d'environnement, d'ajouter une validation plus stricte des entrées et de renforcer la gestion des droits sur l'interface d'administration.
-
-## Licence
-
-Ce projet est distribué sous licence **MIT**. Consultez le fichier `LICENSE` (ou ajoutez-le au dépôt) pour connaître les conditions complètes d'utilisation, de modification et de redistribution.
